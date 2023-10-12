@@ -45,6 +45,6 @@ elsif anyof (
         ] [""] # new syntax, not sure this works yet
         )
     ){
-      fileinto "Ads"; #LABEL
+      fileinto "Ads"; #Folder
     }
 
